@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!README.md
+!README_RU.md
+!main.cpp
+!docs/
+!docs/usertests.log
